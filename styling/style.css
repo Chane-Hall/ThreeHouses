@@ -1,0 +1,52 @@
+@font-face {
+  font-family: Giveny;
+  src: url(Giveny-Font/Fonts/113.ttf);
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(the_feeling/The Feeling.ttf);
+}
+body{
+background-image: url("bg.jpg");
+background-attachment: fixed;
+color: black;
+font-family: Giveny;
+font-size: 16px;
+}
+.login-form{ 
+background:	#6B8424; 
+border: 2px solid black; 
+padding:9px 9px;
+ border-radius:5px; 
+}
+
+.container{
+	margin-top:40px;
+	
+	}
+#ppp{
+font-size: 28px;
+	}
+	
+.urow{
+	background-color: white;
+	padding:10px;
+	border: 2px solid black;
+}
+
+.acti{
+	background-color:	black; 
+}
+.hovv:hover{
+	background-color:	#6B8424;
+}
+.notdis{
+	display:none;
+	}
+/*
+row{
+background:	rgba(107, 132, 36,0.9);
+padding: 10px;
+border: 2px solid black;
+border-radius: 10px;
+}*/
